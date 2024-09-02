@@ -2,7 +2,7 @@
 🌐 Passionate about leveraging AI tools to boost productivity and streamline code generation. 
 🚀 A rapid learner, thanks to cutting-edge AI assistance. 💡 Eager to explore and master emerging technologies. 
 Let's collaborate and elevate your projects together! 
-🚀 Reach out at veninder47@gmail.com. #TechInnovator
+🚀 Reach out at vinendersingh91@gmail.com. #TechInnovator
 #AIEnthusiast #ReactJS #MERNstack 🚀
 <!---
 vinender/vinender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
